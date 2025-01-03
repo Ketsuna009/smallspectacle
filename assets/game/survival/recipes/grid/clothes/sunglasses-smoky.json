@@ -1,0 +1,12 @@
+[
+	{
+		ingredientPattern:"QBQ",
+		ingredients: {
+			"Q": { type: "item", code: "smokyquartz", quantity:1},
+			"B": { type: "item", code: "metalnailsandstrips-*", allowedVariants: ["bismuthbronze", "tinbronze", "blackbronze"], quantity: 1,}
+		},
+		width: 3,
+		height: 1,
+		output: {type: "item", code: "clothes-face-sunglasses-smoky" }
+	}
+]

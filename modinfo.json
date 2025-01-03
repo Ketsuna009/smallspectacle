@@ -1,0 +1,14 @@
+{
+  "Name": "Small Spectacle",
+  "Version": "1.0.0",
+  "Description": "Adds craftable sunglasses made from smoky quartz",
+  "Website": "https://github.com/Ketsuna009/smallspectacle",
+  "ModID": "smallspectacle",
+  "Authors": ["Ket"],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {
+    "game": "1.20.0"
+  }
+}
