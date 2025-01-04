@@ -1,6 +1,6 @@
 {
 	"editor": {
-		"backDropShape": "C:/VS1.19-Modding/Vintagestory1.19/assets/game/shapes/entity/humanoid/seraph-hairless",
+		"backDropShape": "game:shapes/entity/humanoid/seraph-hairless",
 		"allAngles": false,
 		"entityTextureMode": false
 	},
@@ -9,8 +9,8 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"smoky": "block/glass/smoky",
-		"bismuthbronze": "block/metal/sheet-plain/bismuthbronze1"
+		"smoky": "game:block/glass/smoky",
+		"bismuthbronze": "game:block/metal/sheet-plain/bismuthbronze1"
 	},
 	"elements": [
 		{

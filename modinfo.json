@@ -1,4 +1,5 @@
 {
+  "Type": "Content",
   "Name": "Small Spectacle",
   "Version": "1.0.0",
   "Description": "Adds craftable sunglasses made from smoky quartz",
@@ -9,6 +10,6 @@
   "RequiredOnClient": true,
   "RequiredOnServer": true,
   "Dependencies": {
-    "game": "1.20.0"
+    "game": "*"
   }
 }

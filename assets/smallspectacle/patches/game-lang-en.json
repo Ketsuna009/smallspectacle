@@ -1,8 +1,0 @@
-[
-  {
-    "op": "add",
-    "path": "/item-clothes-face-sunglasses-smoky",
-    "value": "Smoky quartz sunglasses",
-    "file": "game:lang/en.json"
-  }
-]
