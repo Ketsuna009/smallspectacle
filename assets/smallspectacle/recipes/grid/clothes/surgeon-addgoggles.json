@@ -1,0 +1,20 @@
+[
+	{
+		"ingredientPattern": "S",
+		"ingredients": {
+			"S": { "type": "item", "code": "game:clothes-face-surgeon", "quantity": 1 },
+		},
+		"width": 1,
+		"height": 1,
+		"output": { "type": "item", "code": "smallspectacle:clothes-face-surgeon-goggles" }
+	},
+	{
+		"ingredientPattern": "S",
+		"ingredients": {
+			"S": { "type": "item", "code": "game:clothes-face-surgeonhood", "quantity": 1 },
+		},
+		"width": 1,
+		"height": 1,
+		"output": { "type": "item", "code": "smallspectacle:clothes-face-surgeonhood-goggles" }
+	},
+]
